@@ -1,0 +1,172 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#body {
+  background-color: rgb(252, 252, 252);
+}
+.central {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  background-color: rgb(26, 25, 25);
+
+  position: absolute;
+  margin-left: 310px;
+  margin-top: 200px;
+}
+
+.circulo1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 350px;
+  margin-top: 50px;
+  position: absolute;
+}
+.circulo1:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: red;
+  margin-left: 350px;
+  margin-top: 50px;
+  position: absolute;
+  transition: 5s;
+}
+.circulo2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 205px;
+  margin-top: 100px;
+  position: absolute;
+}
+.circulo2:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: orange;
+  margin-left: 205px;
+  margin-top: 100px;
+  position: absolute;
+  transition: 3s;
+}
+.circulo3 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 140px;
+  margin-top: 240px;
+  position: absolute;
+}
+.circulo3:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: yellow;
+  margin-left: 140px;
+  margin-top: 240px;
+  position: absolute;
+  transition: 3s;
+}
+.circulo4 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 200px;
+  margin-top: 390px;
+  position: absolute;
+}
+.circulo4:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: green;
+  margin-left: 200px;
+  margin-top: 390px;
+  position: absolute;
+  transition: 3s;
+}
+.circulo5 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 520px;
+  margin-top: 100px;
+  position: absolute;
+}
+.circulo5:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: rgb(81, 81, 240);
+  margin-left: 520px;
+  margin-top: 100px;
+  position: absolute;
+  transition: 3s;
+}
+.circulo6 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 560px;
+  margin-top: 240px;
+  position: absolute;
+}
+
+.circulo6:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: blue;
+  margin-left: 560px;
+  margin-top: 240px;
+  position: absolute;
+  transition: 5s;
+}
+.circulo7 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 490px;
+  margin-top: 390px;
+  position: absolute;
+}
+
+.circulo7:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: blueviolet;
+  margin-left: 490px;
+  margin-top: 390px;
+  position: absolute;
+  transition: 5s;
+}
+.circulo8 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: white;
+  margin-left: 350px;
+  margin-top: 450px;
+  position: absolute;
+}
+.circulo8:hover {
+  height: 100px;
+  width: 100px;
+  border-radius: 100px;
+  background-color: blueviolet;
+  margin-left: 350px;
+  margin-top: 450px;
+  position: absolute;
+  transition: 5s;
+}
